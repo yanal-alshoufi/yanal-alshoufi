@@ -13,7 +13,7 @@ I'm a final-year Artificial Intelligence & Data Science student with a strong in
 - **Data Science:** Data Analysis, Data Preprocessing, Data Visualization
 - **AI:** Deep Learning, Multi-Task Learning, Explainable AI
 
-- ## Education
+## Education
 
 **B.Sc. in Artificial Intelligence & Data Science**  
 Final-Year Student
@@ -22,5 +22,11 @@ Final-Year Student
 
 - Published a research paper at **CISIM 2025**, Japan.
 
-- ## Featured Projects
+## Featured Projects
 
+## Contact
+
+- Email: alshoufi.yanal@gmail.com
+- Email: yanal_alshoufi@spu.edu.sy
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yanalalshoufi)
+- ORCID: [ORCID](https://orcid.org/0009-0003-7246-0647)
